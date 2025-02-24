@@ -1,0 +1,19 @@
+p {
+  background-color: pink;
+  font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#secondID {
+  color: rgb(0, 0, 255);
+  font-size: 36px;
+}
+
+.thirdClass {
+  font-size: 42px;
+}
+
+#fourthID {
+  background-color: #80fd81;
+  font-weight: bold;
+  font-size: 24px;
+}
